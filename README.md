@@ -1,6 +1,6 @@
 ### Olá! Bora codar??? 👋
 
-- 🌱 Estudando CSharp/.NET
+- 🌱 Estudando Java/Spring
 - 💬 Meu email: jeffersonsilva.2015@outlook.com
 
 <div>
