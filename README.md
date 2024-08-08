@@ -1,6 +1,6 @@
 ### Olá! Bora codar??? 👋
 
-- 🌱 Estudando Java/Spring
+- 🌱 Estudando Python
 - 💬 Meu email: jeffersonsilva.2015@outlook.com
 
 <div>
